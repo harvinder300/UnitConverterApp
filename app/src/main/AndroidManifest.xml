@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.un_conveter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UN_Conveter">
+        <activity
+            android:name=".Currency"
+            android:exported="false"
+            android:label="Currency"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".Length"
+            android:exported="false"            android:label="Length"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Speed"
+            android:exported="false"
+            android:label="Speed"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Weight"
+            android:exported="false"
+            android:label="Weight"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

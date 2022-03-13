@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="button">Button</string>//Maine Button
+    <string name="unit_converter">Unit Converter</string>
+    <string name="kg_to_pound">KG to Pound</string>
+    <string name="length">Length</string>
+    <string name="kg_to_cm">Kg to cm : -</string>
+    <string name="button1">Button</string>//Weight Button
+    <string name="enter_a_number">Enter a number</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+    <string name="Calculate">Calculate</string>
+    <string name="weight">Weight</string>
+    <string name="speed">Speed</string>
+    <string name="currency">Currency</string>
+    <string name="button2">Button</string>//Speed Button
+    <string name="calculate">Calculate</string>
+    <string name="textview5">TextView</string>
+    <string name="textview6">TextView</string>
+    <string name="textview7">TextView</string>
+    <string name="enter_a_number2">Enter a number</string>
+    <string name="textview8">TextView</string>
+    <string name="enter_a_number3">Enter a number</string>
+    <string name="button3">Button</string>
+    <string name="textview9">TextView</string>
+    <string name="textview10">TextView</string>
+    <string name="textview11">TextView</string>
+    <string name="textview12">TextView</string>
+</resources>
